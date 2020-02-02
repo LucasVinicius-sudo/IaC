@@ -1,3 +1,5 @@
 Trabalho de Introdução a computação utilizando Python para plotagem de gráfico
-Aluno : Lucas Vinicius Moura Costa
-CIÊNCIA DA COMPUTAÇÃO 2020
+Aluno:Lucas Vinicius Moura Costa
+Instituto : Universidade Federal De Alagoas
+Curso : Ciência da Computação 
+Ano : 2020
